@@ -16,6 +16,4 @@ A JavaScript "email" client that allows logged-in users to view, get, and send m
 2. Activate a virtual environment: 'python3 -m venv .venv' and activate the virtual environment (VSCode will do this for you automatically)
 3. Install dependencies: 'pip install -r requirements.txt'
 4. Run the project: 'python3 manage.py runserver'
-5. Register for a new account to send yourself some emails, or use the following credentials to see a populated inbox:
-* email: 'hope@test.com'
-* password: 'test1'
+5. Register for a new account to send yourself some emails
